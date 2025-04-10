@@ -21,7 +21,7 @@ jackson-student-profile/
 
 - Serialization of Java objects to JSON
 - Deserialization of JSON into Java objects
-- Using `@JsonProperty` to handle mismatched JSON keys
+- Using @JsonProperty to handle mismatched, missing, or extra JSON keys
 - Parsing nested structures (e.g., List<String>)
 - Real-world theme: **Student Profile Manager**
 
